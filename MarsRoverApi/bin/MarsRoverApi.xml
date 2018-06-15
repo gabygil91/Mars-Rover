@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MarsRoverApi</name>
+    </assembly>
+    <members>
+        <member name="T:MarsRoverApi.Controllers.MarsRoversController">
+            <inheritdoc />
+            <summary>
+            Controller to control the rover in mars using a combination of string characters : L, R, and M
+            </summary>
+        </member>
+        <member name="M:MarsRoverApi.Controllers.MarsRoversController.CreateRover(System.Int32,System.String)">
+            <summary>
+            Creates a new Rover
+            </summary>
+            <param name="roverId"></param>
+            <param name="roverName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MarsRoverApi.Controllers.MarsRoversController.UpdateRover(System.Int32,System.String)">
+            <summary>
+            Updates the name of a rover
+            </summary>
+            <param name="roverId"></param>
+            <param name="roverName"></param>
+        </member>
+        <member name="M:MarsRoverApi.Controllers.MarsRoversController.MoveRover(System.Int32,System.String)">
+            <summary>
+            Moves the Rover depending on the L, R, M istructions
+            </summary>
+            <param name="roverId">The unique id of the rover to move</param>
+            <param name="movementInstruction">Valid instructions letters include “L”, “R”, “M”. No other characters (or spaces) should be allowed.</param>
+        </member>
+        <member name="M:MarsRoverApi.Controllers.MarsRoversController.GetRover(System.Int32)">
+            <summary>
+            Get Rover by Id
+            </summary>
+            <param name="roverId"></param>
+        </member>
+    </members>
+</doc>

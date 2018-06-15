@@ -1,0 +1,9 @@
+C:\Dev\MarsRover\MarsRoverApi\MarsRover.Domain\bin\Debug\netstandard2.0\MarsRover.Domain.deps.json
+C:\Dev\MarsRover\MarsRoverApi\MarsRover.Domain\bin\Debug\netstandard2.0\MarsRover.Domain.dll
+C:\Dev\MarsRover\MarsRoverApi\MarsRover.Domain\bin\Debug\netstandard2.0\MarsRover.Domain.pdb
+C:\Dev\MarsRover\MarsRoverApi\MarsRover.Domain\obj\Debug\netstandard2.0\MarsRover.Domain.csprojResolveAssemblyReference.cache
+C:\Dev\MarsRover\MarsRoverApi\MarsRover.Domain\obj\Debug\netstandard2.0\MarsRover.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\MarsRover\MarsRoverApi\MarsRover.Domain\obj\Debug\netstandard2.0\MarsRover.Domain.AssemblyInfoInputs.cache
+C:\Dev\MarsRover\MarsRoverApi\MarsRover.Domain\obj\Debug\netstandard2.0\MarsRover.Domain.AssemblyInfo.cs
+C:\Dev\MarsRover\MarsRoverApi\MarsRover.Domain\obj\Debug\netstandard2.0\MarsRover.Domain.dll
+C:\Dev\MarsRover\MarsRoverApi\MarsRover.Domain\obj\Debug\netstandard2.0\MarsRover.Domain.pdb
